@@ -2,7 +2,7 @@ package practical3;
 
 import java.util.Scanner;
 
-public class Q4 {
+public class Q4Prefix {
 	public static void main(String[] args) {
 		Scanner input = new Scanner(System.in);
 		

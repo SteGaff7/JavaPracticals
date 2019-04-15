@@ -2,7 +2,7 @@ package practical1;
 
 import java.util.Scanner;
 
-public class Q2 {
+public class Population {
 	public static void main(String[] args) {
 		double currentPop = 312032486;
 		int days = 365;
